@@ -1,7 +1,3 @@
-Vou organizar um material abrangente de estudo baseado nos conteúdos que você enviou até agora. Vou abordar tópicos desde **NumPy e aleatoriedade em computação** até **manipulação de dados com Pandas**. Para cada tópico, incluirei as principais informações e exemplos relevantes para que você possa revisar o conteúdo com clareza. Vamos lá:
-
----
-
 # Material de Estudo: NumPy, Aleatoriedade e Pandas
 
 ## 1. NumPy para Ciência de Dados
@@ -198,4 +194,3 @@ Este material apresenta uma introdução completa às bibliotecas **NumPy** e **
 - Tente importar suas próprias bases de dados e aplicar as técnicas de **manipulação e agregação** abordadas.
 - Utilize o **NumPy** para realizar operações matemáticas em grandes conjuntos de dados e teste diferentes **algoritmos de aleatoriedade**.
 
-Este conteúdo servirá como base sólida para suas habilidades de análise e manipulação de dados em Python, fundamentais para Ciência de Dados.
